@@ -17,42 +17,44 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #fff /*#F3F1EB; /* Sand background color */
+      background-color: #fff; /* Sand background color */
       color: #333; /* Text color */
     }
 
     /* Sidebar styles */
     .sidebar {
-      width: 250px;
-      height: 100vh;
+      width: 100%;
       background-color: #3A4660; /* Bluette color */
-      position: fixed;
-      top: 0;
-      left: 0;
-      padding-top: 20px;
+      padding: 10px 20px; /* Adjust padding */
+      display: flex;
+      justify-content: flex-start; /* Align items to the left */
     }
 
     .sidebar ul {
       list-style-type: none;
       padding: 0;
       margin: 0;
+      display: flex;
+      justify-content: flex-start; /* Align items to the left */
     }
 
     .sidebar li {
       padding: 10px;
-      text-align: center;
     }
 
     .sidebar a {
       color: #fff; /* Text color */
       text-decoration: none;
-      display: block;
     }
 
     /* Main content styles */
     .main-content {
-      margin-left: 250px; /* Same width as sidebar */
       padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
     }
 
     /* Header styles */
@@ -60,10 +62,11 @@
       background-color: #fff; /* Sand color */
       color: #3A4660; /* Bluette Text color */
       padding: 20px;
-      text-align: center;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Different font */
       font-size: 36px; /* Font size */
       font-weight: bold; /* Bold font */
+      width: 100%;
+      text-align: center;
     }
 
     /* Description and picture styles */
@@ -72,6 +75,7 @@
       padding: 20px;
       margin-top: 20px;
       border-radius: 5px;
+      width: 70%; /* Adjust as needed */
     }
 
     .picture {
@@ -79,7 +83,14 @@
       height: 200px;
       background-color: #3A4660; /* Bluette color */
       border-radius: 50%;
-      margin: 20px auto;
+      margin-top: 20px;
+    }
+
+    .picture img {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      object-fit: cover;
     }
   </style>
 </head>
@@ -108,14 +119,13 @@
       <h2>Postdoctoral Researcher</h2> 
       <h3>University of Milano-Bicocca</h3>
       <p>I am a Postdoctoral Researcher at the <a href="https://www.dems.unimib.it/en">Department of Economics, Management and Statistics</a> at the <a href="https://en.unimib.it/">University of Milano-Bicocca</a>.</p>
-        <p>Here you can find some info about me, my research, and my CV.</p>
-        <p>You can email me at <a href="mailto:alice.giampino@unimib.it">alice.giampino@unimib.it</a>.
-      </p>
-      <div class="picture">
-      
-        <img class="mv0 w-70-m" src="round_photo.png" width=200/>
-        
-      </div> <!-- Placeholder for your picture -->
+      <p>Here you can find some info about me, my research, and my CV.</p>
+      <p>You can email me at <a href="mailto:alice.giampino@unimib.it">alice.giampino@unimib.it</a>.</p>
+    </div>
+    
+    <!-- Picture -->
+    <div class="picture">
+      <img src="round_photo.png" alt="Alice Giampino">
     </div>
   </div>
 </body>
