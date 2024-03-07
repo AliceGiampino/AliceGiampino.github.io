@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - /files
+    - /img
 
 website:
   title: "Alice Giampino"
