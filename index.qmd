@@ -5,7 +5,7 @@ page-layout: full
 about:
   template: solana
   image-width: 8em
-  image: img/round_photo.jpg
+  image: /img/round_photo.jpg
   image-shape: round
   links:
     - icon: journal-text
