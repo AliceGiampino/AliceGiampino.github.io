@@ -5,12 +5,12 @@ page-layout: full
 about:
   template: solana
   image-width: 8em
-  image: https://alicegiampino.github.io/img/round_photo.jpg
+  image: img/round_photo.jpg
   image-shape: round
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: https://alicegiampino.github.io/files/cv.pdf
+      href: files/cv.pdf
     - icon: envelope-at
       text: "Email address"
       href: "mailto: alice.giampino@unimib.it"
