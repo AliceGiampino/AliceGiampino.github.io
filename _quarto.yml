@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alice Giampino"
+  search: false
+  navbar: 
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: pub.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: links.qmd
+        text: Other
+
+        
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    toc: false
+    fontsize: 1.1em
