@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alice Giampino",
     "section": "",
-    "text": "## About me {.central}\n[E-mail]{.blue}: alice.giampino@unimib.it"
+    "text": "About me\n[E-mail]: alice.giampino@unimib.it"
   },
   {
     "objectID": "about.html",
