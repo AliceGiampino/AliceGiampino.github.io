@@ -13,7 +13,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teach.qmd
+        text: Teaching
+      - href: other.qmd
+        text: Other
+      
 
 format:
   html:

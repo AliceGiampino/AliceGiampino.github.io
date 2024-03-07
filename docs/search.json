@@ -32,6 +32,20 @@
     "href": "index.html#about-me",
     "title": "Alice Giampino",
     "section": "About me",
-    "text": "About me\nI am a Postodctoral Researcher of Statistical Science at the department of Economics, Management and Statistics (DEMS) of University of Milano-Bicocca."
+    "text": "About me\nI am a Postodctoral Researcher of Statistical Science at the department of Economics, Management and Statistics (DEMS) of University of Milano-Bicocca.\nResearch interests: Bayesian clustering; Bayesian nonparametrics; random partition models; applied Bayesian models; computational statistics; topic models.\nE-mail: alice.giampino@unimib.it"
+  },
+  {
+    "objectID": "teach.html",
+    "href": "teach.html",
+    "title": "Alice Giampino",
+    "section": "",
+    "text": "M.Sc courses (Laurea magistrale)\n\nExperimental design, CdL Marketing and Global Markets, University of Milano-Bicocca.\n\nB.Sc. courses (Laurea triennale)\n\nStatistics, CdL Informatic Engeneering, Department of Engeneering, University of Bergamo."
+  },
+  {
+    "objectID": "teach.html#teaching",
+    "href": "teach.html#teaching",
+    "title": "Alice Giampino",
+    "section": "",
+    "text": "M.Sc courses (Laurea magistrale)\n\nExperimental design, CdL Marketing and Global Markets, University of Milano-Bicocca.\n\nB.Sc. courses (Laurea triennale)\n\nStatistics, CdL Informatic Engeneering, Department of Engeneering, University of Bergamo."
   }
 ]
