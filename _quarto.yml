@@ -10,17 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
-      - href: links.qmd
-        text: Other
-      
+      - about.qmd
 
-        
 format:
   html:
     theme: cosmo
