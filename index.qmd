@@ -19,6 +19,6 @@ about:
       href: https://github.com/AliceGiampino
 ---
 
-About me 
+**About me**
 
 \[E-mail\]: alice.giampino\@unimib.it

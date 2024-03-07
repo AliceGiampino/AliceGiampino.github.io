@@ -23,7 +23,6 @@ website:
         
 format:
   html:
-    page-layout: full
     theme: cosmo
-    toc: false
-    fontsize: 1.1em
+    css: styles.css
+    toc: true
