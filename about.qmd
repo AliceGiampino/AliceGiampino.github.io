@@ -1,26 +1,46 @@
 ---
-title: "about"
+title: ""
 format: html
 editor: visual
 ---
 
-## Quarto
+## Education
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+![](img/logB.png)
+- **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy.
 
-## Running Code
+    Period 2019 - 2023. 
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+    Thesis title: [*Innovative approaches to Bayesian Clustering Methods: parametric and nonparametric perspectives*](files/PhD_thesis_Alice_Giampino.pdf).  
 
-```{r}
-1 + 1
-```
+    I worked under the joint supervision of  prof. [Bernardo Niporti](https://www.bernardonipoti.com/) and prof. [Michele Guindani](https://www.micheleguindani.info/). 
 
-You can add options to executable code like this
 
-```{r}
-#| echo: false
-2 * 2
-```
+- **M.Sc. in Statistical Sciences**, University of Milano-Bicocca, Milan, Italy.
 
-The `echo: false` option disables the printing of code (only output is displayed).
+    Period 2017 - 2019. Final mark: 110/110 with laude.
+
+    Thesis title: [Dirichlet Process and Hierarchical Models](files/Giampino_Alice_Master_Thesis_Dirichlet_Process.pdf). 
+
+    Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
+
+- **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy.
+
+    Period 2014 - 2017. Final mark: 110/110 with laude.
+
+    Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
+
+## Teaching Assistant
+
+M.Sc courses (*Laurea magistrale*)
+
+- Bayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021).
+
+## Tutor 
+
+- Statistical Model, Bachelor in Statistics, University of Milano-Bicocca (2018-2019-2022).
+- R for the multivariate statistical analysis, Bachelor in Statistics, University of Milano-Bicocca (2022).
+
+## Projects
+
+- Scientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)

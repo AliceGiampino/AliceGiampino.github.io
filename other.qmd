@@ -1,4 +1,38 @@
 ---
-title: "other"
+title: ""
 editor: visual
 ---
+
+## Conferences - Workshop
+
+- Computational and Methodological Statistics (CMStatistics), 2023. Berlin, German. 
+
+    **Invited talk**: *Changepoint detection with random partiton models*.
+
+- Workshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France. 
+
+    **Talk and poster**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
+
+- ASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece. 
+
+    **Talk**: *A flexible generalization of the Latent Dirichlet distribution*.
+
+- OBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S. 
+
+    **Poster session**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
+
+- COMPSTAT (Computational Statistics), 2022. Bologna, Italy. 
+
+    **Talk**: *LEFDA: An extension of the classical Latent Dirichlet Allocation*.
+
+- ISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada. 
+
+    **Poster session**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
+
+## Ph.D. projects
+
+- [Gradient - R package](https://github.com/vincnardelli/gradient): R package to calculate the gradient of a function.
+
+- [Post selection inference fMRI Data](https://github.com/AliceGiampino/fMRI-Analysis/blob/master/face_fmri.pdf): visualization of active area in a brain during an experiment.
+
+- [Forest Fire Bayesian Analysis](https://github.com/AliceGiampino/Forest-Fire_Bayesian-Analysis): an analysis of the burnt area for forest fires in Portugal.

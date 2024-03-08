@@ -21,10 +21,38 @@ about:
 
 ------------------------------------------------------------------------
 
-## About me {.central}
+## About me 
 
-I am a Postodctoral Researcher of Statistical Science at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of [University of Milano-Bicocca](https://en.unimib.it).
+I am a Postodctoral Researcher of Statistical Science at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) at [University of Milano-Bicocca](https://en.unimib.it).
 
 [**Research interests**]{.blue}: Bayesian clustering; Bayesian nonparametrics; random partition models; applied Bayesian models; computational statistics; topic models.
 
 [**E-mail**]{.blue}: alice.giampino\@unimib.it
+
+## Education
+
+![](img/logB.png)
+- **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy.
+
+    Period 2019--2023. 
+
+    Thesis title: [*Innovative approaches to Bayesian Clustering Methods: parametric and nonparametric perspectives*](files/PhD_thesis_Alice_Giampino.pdf).  
+
+    I worked under the joint supervision of  prof. [Bernardo Niporti](https://www.bernardonipoti.com/) and prof. [Michele Guindani](https://www.micheleguindani.info/). 
+
+
+- **M.Sc. in Statistical Sciences**, University of Milano-Bicocca, Milan, Italy.
+
+    Period 2017 - 2019. Final mark: 110/110 with laude.
+
+    Thesis title: [Functional telecommunication data: a Bayesian nonparametric approach](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf). 
+
+Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
+
+- **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy.
+
+Period 2014--2017. Final mark: 110/110 with laude.
+
+Thesis title: [Box-Cox transformation: an analysis based on the likelihood](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf). 
+
+Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).

@@ -4,12 +4,13 @@ format: html
 editor: visual
 ---
 
-## Teaching {.central}
+## Teaching 
 
 M.Sc courses (*Laurea magistrale*)
 
--   Experimental design, CdL Marketing and Global Markets, University of Milano-Bicocca.
+-   Experimental design, Marketing and Global Markets, University of Milano-Bicocca.
 
 B.Sc. courses (*Laurea triennale*)
 
--   Statistics, CdL Informatic Engeneering, Department of Engeneering, University of Bergamo.
+-   Statistics, Informatic Engineering, Department of Engineering, University of Bergamo.
+
