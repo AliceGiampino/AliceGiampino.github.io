@@ -13,3 +13,18 @@ M.Sc courses (*Laurea magistrale*)
 B.Sc. courses (*Laurea triennale*)
 
 -   Statistics, Informatic Engineering, Department of Engineering, University of Bergamo.
+
+## Teaching Assistant
+
+M.Sc courses (*Laurea magistrale*)
+
+- Bayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021).
+
+## Tutor 
+
+- Statistical Model, Bachelor in Statistics, University of Milano-Bicocca (2018-2019-2022).
+- R for the multivariate statistical analysis, Bachelor in Statistics, University of Milano-Bicocca (2022).
+
+## Projects
+
+- Scientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)
