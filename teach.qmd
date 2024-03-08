@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Teaching 
+## Teaching
 
 M.Sc courses (*Laurea magistrale*)
 
@@ -13,4 +13,3 @@ M.Sc courses (*Laurea magistrale*)
 B.Sc. courses (*Laurea triennale*)
 
 -   Statistics, Informatic Engineering, Department of Engineering, University of Bergamo.
-

@@ -35,4 +35,11 @@ editor: visual
 
 - [Post selection inference fMRI Data](https://github.com/AliceGiampino/fMRI-Analysis/blob/master/face_fmri.pdf): visualization of active area in a brain during an experiment.
 
-- [Forest Fire Bayesian Analysis](https://github.com/AliceGiampino/Forest-Fire_Bayesian-Analysis): an analysis of the burnt area for forest fires in Portugal.
+- [Forest Fire Bayesian Analysis](https://github.com/AliceGiampino/Forest-Fire_Bayesian-Analysis/blob/master/Giampino_Assignment_Forestfire.pdf): an analysis of the burnt area for forest fires in Portugal.
+
+## M.Sc. projects (Italian)
+
+- [Outlier detection with different models](https://alicegiampino.github.io/SL/)(R language);
+
+- [Fraud detection](https://github.com/AliceGiampino/ML/blob/master/team12.pdf) (Knime, R).
+
