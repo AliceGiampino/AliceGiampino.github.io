@@ -25,7 +25,7 @@ about:
 
 I am a Postodctoral Researcher of Statistical Science at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) at [University of Milano-Bicocca](https://en.unimib.it).
 
-[**Research interests**]: Bayesian clustering; Bayesian nonparametrics; random partition models; applied Bayesian models; computational statistics; topic models.
+**Research interests**: Bayesian clustering; Bayesian nonparametrics; random partition models; applied Bayesian models; computational statistics; topic models.
 
-[**E-mail**]: alice.giampino\@unimib.it
+**E-mail**: alice.giampino\@unimib.it
 

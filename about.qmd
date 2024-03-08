@@ -4,19 +4,22 @@ format: html
 editor: visual
 ---
 
-## Education
+## Education 
 
-![](img/logB.png)
-- **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy.
+- ![](img/logoB.png){width=7%} **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy. 
 
     Period 2019 - 2023. 
+    
+    ![](img/UCI_Stats_logo.png){width=20%} **Visiting researcher**, [University of California, Irvine](https://uci.edu/), U.S. 
+    
+    Period May 2022 - May 2023
 
-    Thesis title: [*Innovative approaches to Bayesian Clustering Methods: parametric and nonparametric perspectives*](files/PhD_thesis_Alice_Giampino.pdf).  
+    Thesis title: [Innovative approaches to Bayesian Clustering Methods: parametric and nonparametric perspectives](files/PhD_thesis_Alice_Giampino.pdf).  
 
     I worked under the joint supervision of  prof. [Bernardo Niporti](https://www.bernardonipoti.com/) and prof. [Michele Guindani](https://www.micheleguindani.info/). 
 
 
-- **M.Sc. in Statistical Sciences**, University of Milano-Bicocca, Milan, Italy.
+- ![](img/logoB.png){width=7%} **M.Sc. in Statistical Sciences**, University of Milano-Bicocca, Milan, Italy.
 
     Period 2017 - 2019. Final mark: 110/110 with laude.
 
@@ -24,7 +27,7 @@ editor: visual
 
     Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
 
-- **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy.
+- ![](img/logoB.png){width=7%} **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy.
 
     Period 2014 - 2017. Final mark: 110/110 with laude.
 
