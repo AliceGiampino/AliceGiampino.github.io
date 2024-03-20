@@ -16,7 +16,7 @@ editor: visual
 
     Thesis title: [Innovative approaches to Bayesian Clustering Methods: parametric and nonparametric perspectives](files/PhD_thesis_Alice_Giampino.pdf).  
 
-    I worked under the joint supervision of  prof. [Bernardo Niporti](https://www.bernardonipoti.com/) and prof. [Michele Guindani](https://www.micheleguindani.info/). 
+    I worked under the joint supervision of  Prof. [Bernardo Niporti](https://www.bernardonipoti.com/) and Prof. [Michele Guindani](https://www.micheleguindani.info/). 
 
 
 - ![](img/logoB.png){width=7%} **M.Sc. in Statistical Sciences**, University of Milano-Bicocca, Milan, Italy.
@@ -25,10 +25,10 @@ editor: visual
 
     Thesis title: [Dirichlet Process and Hierarchical Models](files/Giampino_Alice_Master_Thesis_Dirichlet_Process.pdf). 
 
-    Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
+    Advisor: [Prof. Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
 
 - ![](img/logoB.png){width=7%} **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy.
 
     Period 2014 - 2017. Final mark: 110/110 with laude.
 
-    Advisor: [Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
+    Advisor: [Prof. Sonia Migliorati](https://www.unimib.it/sonia-migliorati).

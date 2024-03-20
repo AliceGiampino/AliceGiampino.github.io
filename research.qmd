@@ -7,55 +7,50 @@ editor: visual
 
 I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:
 
--    Bayesian clustering methods with high dimensional data;
+-   Bayesian clustering methods with high dimensional data;
 
--    Multivariate time series with changepoint detection.
+-   Multivariate time series with changepoint detection.
 
 -   Topic modelling techniques with distributions defined on the simplex.
 
 ## Research projects
 
--   \_, B. Nipoti, A. Canale, *A Bayesian Method for Co-clustering Ordinal Data with Informative Censoring*, (2024+). Target journal: Statistics and Computing;
--   \_, M. Guindani, B. Nipoti, M. Vannucci, *Changepoint Detection with Random Partition Models*, (2024+). Target journal: Bayesian Analysis;
--   R.Ascari, \_, S. Migliorati, *An extension of latent Dirichlet allocation*, (2024+). Target journal: Journal of Machine Learning Research.
+-   **A. Giampino**, B. Nipoti, A. Canale, *A Bayesian Method for Co-clustering Ordinal Data with Informative Censoring*, (2024+). Target journal: Statistics and Computing;
+-   **A. Giampino**, M. Guindani, B. Nipoti, M. Vannucci, *Changepoint Detection with Random Partition Models*, (2024+). Target journal: Bayesian Analysis;
+-   R.Ascari, **A. Giampino**, S. Migliorati, *An extension of latent Dirichlet allocation*, (2024+). Target journal: Journal of Machine Learning Research.
 
 ## Short papers
 
-- Computational and Methodological Statistics (CMStatistics) 2023:
+-   Computational and Methodological Statistics (CMStatistics) 2023:
 
-    Giampino A., Guindani M., Nipoti B. \& Vannucci M. *Changepoint detection with random partition models*. 
-    
+    **Giampino A.**, Guindani M., Nipoti B. & Vannucci M. *Changepoint detection with random partition models*.
+
     Book of Abstract. ISBN 978-9925-7812-7-0
 
-- Classification and Data Analysis (CLADAG) 2023:
+-   Classification and Data Analysis (CLADAG) 2023:
 
-    Ascari R. \& Giampino A., *A Flexible Topic Model*. 
-    
+    Ascari R. & **Giampino A.**, *A Flexible Topic Model*.
+
     Book of Abstract. ISBN 978-8891-9356-3-2
 
-- Computational and Methodological Statistics (CMStatistics) 2022:
-    
-    Ascari R. \& Giampino A., *A generalization of the latent Dirichlet allocation*. 
-    
-    Book of Abstract.
-    ISBN 978-9925-7812-6-3
+-   Computational and Methodological Statistics (CMStatistics) 2022:
 
-- Computational Statistics (COMPSTAT) 2022:
+    Ascari R. & **Giampino A.**, *A generalization of the latent Dirichlet allocation*.
 
-    Giampino A., Ascari R. \& Migliorati S., L*EFDA: An extension of the classical LDA*. 
-    
+    Book of Abstract. ISBN 978-9925-7812-6-3
+
+-   Computational Statistics (COMPSTAT) 2022:
+
+    **Giampino A.**, Ascari R. & Migliorati S., L*EFDA: An extension of the classical LDA*.
+
     Book of Abstract. ISBN 978-90-73592-40-7
-
 
 ## Award
 
-- Ph.D. Fellowship, Nov 2019 - Oct 2023:
-  University of Milano - Bicocca, Milan (Italy)
+-   Ph.D. Fellowship, Nov 2019 - Oct 2023: University of Milano - Bicocca, Milan (Italy)
 
-- OBayes (Objective Bayes Methodology Conference) 2022:
-  Travel award
+-   OBayes (Objective Bayes Methodology Conference) 2022: Travel award
 
-- ISBA (International Society for Bayesian Analysis) 2022:
-  Travel award
+-   ISBA (International Society for Bayesian Analysis) 2022: Travel award
 
-- SUS5 (Stats Under the Stars 5th edition) 2019: Winner of the statistical hackathon in 2019.
+-   SUS5 (Stats Under the Stars 5th edition) 2019: Winner of the statistical hackathon in 2019.
