@@ -10,7 +10,7 @@ about:
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: files/cv.pdf
+      href: files/CV_Alice_Giampino_Aug24.pdf
     - icon: envelope-at
       text: "Email address"
       href: "mailto: alice.giampino@unimib.it"
