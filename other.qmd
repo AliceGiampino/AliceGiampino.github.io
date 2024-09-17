@@ -5,6 +5,18 @@ editor: visual
 
 ## Conferences - Workshop
 
+- NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.
+
+    **Invited talk**: *Co-clustering ordinal data with informative censoring.*
+
+- BAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.
+
+    **Poster session**: *Changepoint detection with random partiton models*
+
+- SIS (Italian Society of Statistics), June 2024, Bari, Italy.
+
+    **Contributed talk**: *Microbiome enterotype detection via a latent variable allocation model*
+
 - Computational and Methodological Statistics (CMStatistics), 2023. Berlin, German. 
 
     **Invited talk**: *Changepoint detection with random partiton models*.

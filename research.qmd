@@ -16,7 +16,7 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 ## Research projects
 
 -   **A. Giampino**, B. Nipoti, A. Canale, *A Bayesian Method for Co-clustering Ordinal Data with Informative Censoring*, (2024+). Target journal: Statistics and Computing;
--   **A. Giampino**, M. Guindani, B. Nipoti, M. Vannucci, *Changepoint Detection with Random Partition Models*, (2024+). Target journal: Bayesian Analysis;
+-   **A. Giampino**, M. Guindani, B. Nipoti, M. Vannucci, *Local Level Dynamic Random Partition Models for Changepoint Detection*, (2024+). Target journal: Bayesian Analysis. See the [ArXiv](https://arxiv.org/pdf/2407.20085)!;
 -   R.Ascari, **A. Giampino**, S. Migliorati, *An extension of latent Dirichlet allocation*, (2024+). Target journal: Journal of Machine Learning Research.
 
 ## Short papers
