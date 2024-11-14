@@ -28,6 +28,8 @@ $yellow:  #ff7518 !default;
 $green:   #3fb618 !default;
 $teal:    #20c997 !default;
 $cyan:    #9954bb !default;
+$forestgreen: #228B22 !default;
+
 
 $primary:       $blue !default;
 $secondary:     $gray-800 !default;
