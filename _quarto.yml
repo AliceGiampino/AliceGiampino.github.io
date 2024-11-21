@@ -26,8 +26,8 @@ website:
 format:
   html:
     page-layout: full
-    theme: simplex
-    css: styles.css
+    theme: cosmo
+    css: styles_old.css
     toc: false
     fontsize: 1.3em
 

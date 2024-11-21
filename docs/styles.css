@@ -1,107 +1,101 @@
-/* css styles */
-
-$theme: "cosmo" !default;
-
-//
-// Color system
-//
-
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #868e96 !default;
-$gray-700: #495057 !default;
-$gray-800: #373a3c !default;
-$gray-900: #212529 !default;
-$black:    #000 !default;
-
-$blue:    #2780e3 !default;
-$indigo:  #6610f2 !default;
-$purple:  #613d7c !default;
-$pink:    #e83e8c !default;
-$red:     #ff0039 !default;
-$orange:  #f0ad4e !default;
-$yellow:  #ff7518 !default;
-$green:   #3fb618 !default;
-$teal:    #20c997 !default;
-$cyan:    #9954bb !default;
-$forestgreen: #228B22 !default;
-
-
-$primary:       $blue !default;
-$secondary:     $gray-800 !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $yellow !default;
-$danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
-
-$min-contrast-ratio:   2.6 !default;
-
-// Options
-
-$enable-rounded: false !default;
-
-// Body
-
-$body-color:    $gray-800 !default;
-
-// Fonts
-
-// stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif:    "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$headings-font-weight:      400 !default;
-
-// Navbar
-
-$navbar-dark-hover-color:       rgba($white, 1) !default;
-$navbar-light-hover-color:      rgba($black, .9) !default;
-
-// Alerts
-
-$alert-border-width:            0 !default;
-
-// Progress bars
-
-$progress-height:               .5rem !default;
-
-
-
-/*-- scss:rules --*/
-
-
-// Variables
-
-$web-font-path: "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700&display=swap" !default;
-@if $web-font-path {
-  @import url($web-font-path);
+/* Navbar styling */
+.navbar {
+  background-color: seagreen !important; /* Seagreen background */
+  box-shadow: 0px 6px 12px grey !important; /* Add shadow */
+  color: seashell !important; /* Seashell color for default text in navbar */
 }
 
-// Typography
+/* Navbar links */
+.navbar a {
+  color: seashell !important; /* Contrast text color for navbar links */
+  text-decoration: none; /* Remove underline */
+}
 
+.navbar a:hover {
+  color: seagreen !important; /* Seagreen color on hover */
+  text-decoration: underline; /* Underline for better UX */
+}
+
+.navbar a:active {
+  color: magenta !important; /* Magenta color when active/clicked */
+}
+
+.navbar a:visited {
+  color: seashell !important; /* Seashell for visited links to maintain contrast */
+}
+
+/* Global link styles (outside navbar) */
+a {
+  color: seagreen !important; /* Seagreen color for general links */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  color: seagreen !important; /* Seagreen on hover */
+  text-decoration: underline; /* Add underline for feedback */
+}
+
+a:visited {
+  color: seagreen !important; /* Seagreen for visited links globally */
+}
+
+a:active {
+  color: magenta !important; /* Magenta for clicked links */
+}
+
+/* Hyperlink styles */
+a {
+  color: seagreen !important; /* Seagreen color for default links */
+  text-decoration: none; /* Removes underline */
+}
+
+a:visited {
+  color: seagreen !important; /* Seagreen for visited links */
+}
+
+a:hover {
+  color: seagreen !important; /* Seagreen for hovered links */
+  text-decoration: underline; /* Underline for hover feedback */
+}
+
+a:active {
+  color: magenta !important; /* Magenta for clicked (active) links */
+}
+
+/* Body font */
 body {
-  -webkit-font-smoothing: antialiased;
+  font-family: 'Arial', 'Helvetica', sans-serif !important; /* Default sans-serif font */
 }
 
-// Indicators
-
-.badge {
-  &.bg-light {
-    color: $dark;
-  }
+/* Headings and text sizes */
+h1 {
+  font-size: 2rem !important;
+  font-weight: 600;
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
 }
 
-// Progress bars
+h2 {
+  font-size: 1.5rem !important;
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
 
-.progress {
-  @include box-shadow(none);
+h3 {
+  font-size: 1.1rem !important;
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
 
-  .progress-bar {
-    font-size: 8px;
-    line-height: 8px;
-  }
+/* Text styles for other headings and paragraphs */
+h4, h5, h6, p, a {
+  font-family: 'Times New Roman', 'Helvetica', sans-serif !important;
+}
+
+/* Centralized alignment for specific elements */
+.central h2 {
+  text-align: center;
+}
+
+/* Class for seagreen-colored text */
+.seagreen {
+  color: seagreen;
+  font-weight: bold;
 }
