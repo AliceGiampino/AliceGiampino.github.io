@@ -25,6 +25,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: simplex
     css: styles.css
     toc: false
+    fontsize: 1.3em
+
+editor: visual
