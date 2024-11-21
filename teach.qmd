@@ -18,13 +18,17 @@ B.Sc. courses (*Laurea triennale*)
 
 M.Sc courses (*Laurea magistrale*)
 
-- Bayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021).
+-   Bayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021).
 
-## Tutor 
+## Tutor
 
-- Statistical Model, Bachelor in Statistics, University of Milano-Bicocca (2018-2019-2022).
-- R for the multivariate statistical analysis, Bachelor in Statistics, University of Milano-Bicocca (2022).
+- Statistics III (generalized linear models), Bachelor in Statistics, University of Milano-Bicocca (2024).
+
+-   Statistical Model, Bachelor in Statistics, University of Milano-Bicocca (2018-2019-2022-2024).
+-   R for the multivariate statistical analysis, Bachelor in Statistics, University of Milano-Bicocca (2022).
 
 ## Projects
 
-- Scientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)
+-   Scientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)
+
+- PNRR projects: presenting statistics to high schools (2024)
