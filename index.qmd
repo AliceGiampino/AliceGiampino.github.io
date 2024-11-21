@@ -14,6 +14,9 @@ about:
     - icon: envelope-at
       text: "Email address"
       href: "mailto: alice.giampino@unimib.it"
+    - icon: google
+      text: "Google scholar"
+      href: https://scholar.google.com/citations?user=2x70sa0AAAAJ&hl=en&oi=ao
     - icon: github
       text: "Github"
       href: https://github.com/AliceGiampino
