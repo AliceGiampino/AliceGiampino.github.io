@@ -1,15 +1,18 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - /files
-    - /img
+  
+# Meta
+author-meta: "Alice Giampino"
 
 website:
   title: "Alice Giampino"
-  search: false
-  navbar: 
-    title: false
+  favicon: images/icona.ico
+  open-graph: true
+  site-url: "https://AliceGiampino.github.io/"
+  navbar:
+    background: "#175e59"
+    foreground: "light"
     left:
       - href: index.qmd
         text: Home
@@ -21,14 +24,29 @@ website:
         text: Teaching
       - href: other.qmd
         text: Other
-      
+      - text: CV
+        href: files/CV_Alice_Giampino_Aug24.pdf
+        target: _blank          
+    right:
+      - icon: envelope
+        href: mailto:alice.giampino@unimib.it 
+        target: _blank    
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=2x70sa0AAAAJ&hl=en&oi=ao
+        target: _blank         
+      - icon: github
+        href: https://github.com/AliceGiampino
+        target: _blank
+    page-footer: 
+      left: "[Alice Giampino](http://AliceGiampino.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    
+    reader-mode: true
+
+
 
 format:
   html:
-    page-layout: full
-    theme: simplex
-    css: styles.css
+    theme: [simplex, style.scss]
     toc: false
-    fontsize: 1.1em
-
-editor: visual
+    link-external-newwindow: true
+    email-obfuscation: javascript

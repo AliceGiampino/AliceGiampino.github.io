@@ -5,53 +5,64 @@ editor: visual
 
 ## Conferences - Workshop
 
-- NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.
+-   *NEXT* Computational and Methodological Statistics (CMStatistics), Dec 2025, London, UK.
+
+    **Invited talk**
+
+-   *NEXT* Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.
+
+    **Invited talk**
+
+-   *NEXT* Bayesian Nonparametric (BNP) meeting, Jul 2025, Los Angeles, US.
+
+    **Invited talk**
+
+-   Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.
 
     **Invited talk**: *Co-clustering ordinal data with informative censoring.*
 
-- BAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.
+-   BAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.
 
     **Poster session**: *Changepoint detection with random partiton models*
 
-- SIS (Italian Society of Statistics), June 2024, Bari, Italy.
+-   SIS (Italian Society of Statistics), June 2024, Bari, Italy.
 
     **Contributed talk**: *Microbiome enterotype detection via a latent variable allocation model*
 
-- Computational and Methodological Statistics (CMStatistics), 2023. Berlin, German. 
+-   Computational and Methodological Statistics (CMStatistics), 2023. Berlin, German.
 
     **Invited talk**: *Changepoint detection with random partiton models*.
 
-- Workshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France. 
+-   Workshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.
 
     **Talk and poster**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
 
-- ASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece. 
+-   ASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.
 
     **Talk**: *A flexible generalization of the Latent Dirichlet distribution*.
 
-- OBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S. 
+-   OBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.
 
     **Poster session**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
 
-- COMPSTAT (Computational Statistics), 2022. Bologna, Italy. 
+-   COMPSTAT (Computational Statistics), 2022. Bologna, Italy.
 
     **Talk**: *LEFDA: An extension of the classical Latent Dirichlet Allocation*.
 
-- ISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada. 
+-   ISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.
 
     **Poster session**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
 
 ## Ph.D. projects
 
-- [Gradient - R package](https://github.com/vincnardelli/gradient): R package to calculate the gradient of a function.
+-   [Gradient - R package](https://github.com/vincnardelli/gradient): R package to calculate the gradient of a function.
 
-- [Post selection inference fMRI Data](https://github.com/AliceGiampino/fMRI-Analysis/blob/master/face_fmri.pdf): visualization of active area in a brain during an experiment.
+-   [Post selection inference fMRI Data](https://github.com/AliceGiampino/fMRI-Analysis/blob/master/face_fmri.pdf): visualization of active area in a brain during an experiment.
 
-- [Forest Fire Bayesian Analysis](https://github.com/AliceGiampino/Forest-Fire_Bayesian-Analysis/blob/master/Giampino_Assignment_Forestfire.pdf): an analysis of the burnt area for forest fires in Portugal.
+-   [Forest Fire Bayesian Analysis](https://github.com/AliceGiampino/Forest-Fire_Bayesian-Analysis/blob/master/Giampino_Assignment_Forestfire.pdf): an analysis of the burnt area for forest fires in Portugal.
 
 ## M.Sc. projects (Italian)
 
-- [Outlier detection with different models](https://alicegiampino.github.io/SL/)(R language);
+-   [Outlier detection with different models](https://alicegiampino.github.io/SL/)(R language);
 
-- [Fraud detection](https://github.com/AliceGiampino/ML/blob/master/team12.pdf) (Knime, R).
-
+-   [Fraud detection](https://github.com/AliceGiampino/ML/blob/master/team12.pdf) (Knime, R).

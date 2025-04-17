@@ -9,17 +9,25 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 
 -   Bayesian clustering methods with high dimensional data;
 
--   Multivariate time series with changepoint detection.
+-   Multivariate time series with change point detection.
 
 -   Topic modelling techniques with distributions defined on the simplex.
 
 ## Research projects
 
+-   **A. Giampino**, R. Ascari, S. Migliorati,  A flexible mixed-membership model for community and enterotype detection for microbiome data. <strong><a href="https://www.dems.unimib.it/en" target="_blank"> Computational Statistics and Data Analysis</a></strong>, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
 -   **A. Giampino**, B. Nipoti, A. Canale, *A Bayesian Method for Co-clustering Ordinal Data with Informative Missing Entries*, (2024+). See the [ArXiv](https://arxiv.org/pdf/2411.02276)!;
 -   **A. Giampino**, M. Guindani, B. Nipoti, M. Vannucci, *Local Level Dynamic Random Partition Models for Changepoint Detection*, (2024+). See the [ArXiv](https://arxiv.org/pdf/2407.20085)!;
--   R.Ascari, **A. Giampino**, S. Migliorati, *An extension of latent Dirichlet allocation*, (2024+). Target journal: Journal of Machine Learning Research.
 
 ## Short papers
+
+- Applied Stochastic Models and Data Analysis (ASMDA) 2024 - Book Chapter:
+
+    **Giampino A.**, Ascari R., Migliorati S., *A flexible generalization of the Latent Dirichlet Allocation*.
+    
+    [https://dx.doi.org/10.1002/9781394316915.ch8](https://dx.doi.org/10.1002/9781394316915.ch8)
+
+    ISBN 9781786309921
 
 -   Computational and Methodological Statistics (CMStatistics) 2023:
 
@@ -41,11 +49,16 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 
 -   Computational Statistics (COMPSTAT) 2022:
 
-    **Giampino A.**, Ascari R. & Migliorati S., L*EFDA: An extension of the classical LDA*.
+    **Giampino A.**, Ascari R. & Migliorati S., *LEFDA: An extension of the classical LDA*.
 
     Book of Abstract. ISBN 978-90-73592-40-7
 
 ## Award
+
+- BNP (Bayesin Nonparametrics) 2025:
+Travel award
+
+-   ISBA (International Society for Bayesian Analysis) 2024: Best poster
 
 -   Ph.D. Fellowship, Nov 2019 - Oct 2023: University of Milano - Bicocca, Milan (Italy)
 

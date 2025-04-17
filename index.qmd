@@ -1,37 +1,35 @@
 ---
-title: "Alice Giampino"
-subtitle: "Postdoctoral Researcher at University of Milano-Bicocca"
-page-layout: full
+title: 'Alice Giampino'
+subtitle:  '<p> Postdoctoral Researcher, Statistics <br> University of Milano-Bicocca </p>'
+image: "img/square_photo.jpg"
+
 about:
-  template: solana
-  image-width: 8em
-  image: img/square_photo.jpg
-  image-shape: round
+  id: alice-heading
+  template: trestles
+  image-width: 70%
   links:
-    - icon: journal-text
-      text: "Curriculum vitae"
-      href: files/CV_Alice_Giampino_Aug24.pdf
-    - icon: envelope-at
-      text: "Email address"
-      href: "mailto: alice.giampino@unimib.it"
-    - icon: google
-      text: "Google scholar"
+    - icon: envelope
+      text: E-mail
+      href: mailto:alice.giampino@unimib.it  
+    - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=2x70sa0AAAAJ&hl=en&oi=ao
-    - icon: github
-      text: "Github"
+      target: _blank 
+    - text: "{{< fa brands github >}} GitHub"
       href: https://github.com/AliceGiampino
+      target: _blank 
+      
+editor: 
+  mode: source
 ---
 
 ------------------------------------------------------------------------
 
-## About me
 
-I am a Postodctoral Researcher of Statistical Science at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) at [University of Milano-Bicocca](https://en.unimib.it).
+I am a Postdoctoral Researcher in Statistics at the <strong><a href="https://www.dems.unimib.it/en" target="_blank">Department of Economics, Management and Statistics (DEMS)</a></strong>, at the <strong><a href="https://en.unimib.it" target="_blank">University of Milano-Bicocca</a></strong>. My research focuses primarily on Bayesian statistical methods for modeling high-dimensional data, time series, with particular emphasis on clustering and inference.
 
-I am a Research Fellow Representative at DEMS.
+
+I work on various projects involving the application of statistics across different fields, and I truly enjoy teaching statistics. I’m passionate about sharing statistical knowledge, I also took part of several projects to spread Statistics with high school students. I also serve as a Research Fellow Representative at DEMS.
+
+Outside of academia, I love hiking, gardening, and spending time in the mountains.
 
 Feel free to reach out!
-
-**Research interests**: Bayesian clustering; Bayesian nonparametrics; Random partition models; Applied Bayesian models; Computational statistics; Topic models.
-
-**E-mail**: alice.giampino\@unimib.it

@@ -25,14 +25,14 @@
     "href": "index.html",
     "title": "Alice Giampino",
     "section": "",
-    "text": "----------------------------------------------------------------\n## About me {.central}"
+    "text": "I am a Postdoctoral Researcher in Statistics at the Department of Economics, Management and Statistics (DEMS), at the University of Milano-Bicocca. My research focuses primarily on Bayesian statistical methods for modeling high-dimensional data, time series, with particular emphasis on clustering and inference.\nI work on various projects involving the application of statistics across different fields, and I truly enjoy teaching statistics. I’m passionate about sharing statistical knowledge, I also took part of several projects to spread Statistics with high school students. I also serve as a Research Fellow Representative at DEMS.\nOutside of academia, I love hiking, gardening, and spending time in the mountains.\nFeel free to reach out!"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Alice Giampino",
     "section": "About me",
-    "text": "About me\nI am a Postodctoral Researcher of Statistical Science at the department of Economics, Management and Statistics (DEMS) at University of Milano-Bicocca.\nI am a Research Fellow Representative at DEMS.\nFeel free to reach out!\nResearch interests: Bayesian clustering; Bayesian nonparametrics; Random partition models; Applied Bayesian models; Computational statistics; Topic models.\nE-mail: alice.giampino@unimib.it"
+    "text": "About me\nI am a Postdoctoral Researcher in Statistics at the Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca. My research focuses primarily on Bayesian statistical methods for modeling high-dimensional data, time series, with particular emphasis on clustering and inference.\nI work on various projects involving the application of statistics across different fields, and I truly enjoy teaching statistics. I’m passionate about sharing statistical knowledge, I also took part of several projects to spread Statistics with high school students. I also serve as a Research Fellow Representative at DEMS.\nOutside of academia, I love hiking, gardening, and spending time in the mountains.\nFeel free to reach out!"
   },
   {
     "objectID": "teach.html",
@@ -74,14 +74,14 @@
     "href": "research.html",
     "title": "Alice Giampino",
     "section": "",
-    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with changepoint detection.\nTopic modelling techniques with distributions defined on the simplex."
+    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with change point detection.\nTopic modelling techniques with distributions defined on the simplex."
   },
   {
     "objectID": "research.html#research",
     "href": "research.html#research",
     "title": "Alice Giampino",
     "section": "",
-    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with changepoint detection.\nTopic modelling techniques with distributions defined on the simplex."
+    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with change point detection.\nTopic modelling techniques with distributions defined on the simplex."
   },
   {
     "objectID": "research.html#currently-research-projects",
@@ -102,14 +102,14 @@
     "href": "other.html",
     "title": "Alice Giampino",
     "section": "",
-    "text": "NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
+    "text": "NEXT Computational and Methodological Statistics (CMStatistics), Dec 2025, London, UK.\nInvited talk\nNEXT Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.\nInvited talk\nComputational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
   },
   {
     "objectID": "other.html#conferences---workshop",
     "href": "other.html#conferences---workshop",
     "title": "Alice Giampino",
     "section": "",
-    "text": "NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
+    "text": "NEXT Computational and Methodological Statistics (CMStatistics), Dec 2025, London, UK.\nInvited talk\nNEXT Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.\nInvited talk\nComputational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
   },
   {
     "objectID": "other.html#ph.d.-projects",
@@ -123,21 +123,21 @@
     "href": "research.html#research-projects",
     "title": "Alice Giampino",
     "section": "Research projects",
-    "text": "Research projects\n\nA. Giampino, B. Nipoti, A. Canale, A Bayesian Method for Co-clustering Ordinal Data with Informative Censoring, (2024+). See the ArXiv!;\nA. Giampino, M. Guindani, B. Nipoti, M. Vannucci, Local Level Dynamic Random Partition Models for Changepoint Detection, (2024+). See the ArXiv!;\nR.Ascari, A. Giampino, S. Migliorati, An extension of latent Dirichlet allocation, (2024+). Target journal: Journal of Machine Learning Research."
+    "text": "Research projects\n\nA. Giampino, R. Ascari, S. Migliorati, A flexible mixed-membership model for community and enterotype detection for microbiome data.  Computational Statistics and Data Analysis, 10.1016/j.csda.2025.108181.\nA. Giampino, B. Nipoti, A. Canale, A Bayesian Method for Co-clustering Ordinal Data with Informative Missing Entries, (2024+). See the ArXiv!;\nA. Giampino, M. Guindani, B. Nipoti, M. Vannucci, Local Level Dynamic Random Partition Models for Changepoint Detection, (2024+). See the ArXiv!;"
   },
   {
     "objectID": "research.html#short-papers",
     "href": "research.html#short-papers",
     "title": "Alice Giampino",
     "section": "Short papers",
-    "text": "Short papers\n\nComputational and Methodological Statistics (CMStatistics) 2023:\nGiampino A., Guindani M., Nipoti B. & Vannucci M. Changepoint detection with random partition models.\nBook of Abstract. ISBN 978-9925-7812-7-0\nClassification and Data Analysis (CLADAG) 2023:\nAscari R. & Giampino A., A Flexible Topic Model.\nBook of Abstract. ISBN 978-8891-9356-3-2\nComputational and Methodological Statistics (CMStatistics) 2022:\nAscari R. & Giampino A., A generalization of the latent Dirichlet allocation.\nBook of Abstract. ISBN 978-9925-7812-6-3\nComputational Statistics (COMPSTAT) 2022:\nGiampino A., Ascari R. & Migliorati S., LEFDA: An extension of the classical LDA.\nBook of Abstract. ISBN 978-90-73592-40-7"
+    "text": "Short papers\n\nApplied Stochastic Models and Data Analysis (ASMDA) 2024 - Book Chapter:\nGiampino A., Ascari R., Migliorati S., A flexible generalization of the Latent Dirichlet Allocation.\nhttps://dx.doi.org/10.1002/9781394316915.ch8\nISBN 9781786309921\nComputational and Methodological Statistics (CMStatistics) 2023:\nGiampino A., Guindani M., Nipoti B. & Vannucci M. Changepoint detection with random partition models.\nBook of Abstract. ISBN 978-9925-7812-7-0\nClassification and Data Analysis (CLADAG) 2023:\nAscari R. & Giampino A., A Flexible Topic Model.\nBook of Abstract. ISBN 978-8891-9356-3-2\nComputational and Methodological Statistics (CMStatistics) 2022:\nAscari R. & Giampino A., A generalization of the latent Dirichlet allocation.\nBook of Abstract. ISBN 978-9925-7812-6-3\nComputational Statistics (COMPSTAT) 2022:\nGiampino A., Ascari R. & Migliorati S., LEFDA: An extension of the classical LDA.\nBook of Abstract. ISBN 978-90-73592-40-7"
   },
   {
     "objectID": "research.html#award",
     "href": "research.html#award",
     "title": "Alice Giampino",
     "section": "Award",
-    "text": "Award\n\nPh.D. Fellowship, Nov 2019 - Oct 2023: University of Milano - Bicocca, Milan (Italy)\nOBayes (Objective Bayes Methodology Conference) 2022: Travel award\nISBA (International Society for Bayesian Analysis) 2022: Travel award\nSUS5 (Stats Under the Stars 5th edition) 2019: Winner of the statistical hackathon in 2019."
+    "text": "Award\n\nBNP (Bayesin Nonparametrics) 2025: Travel award\nISBA (International Society for Bayesian Analysis) 2024: Best poster\nPh.D. Fellowship, Nov 2019 - Oct 2023: University of Milano - Bicocca, Milan (Italy)\nOBayes (Objective Bayes Methodology Conference) 2022: Travel award\nISBA (International Society for Bayesian Analysis) 2022: Travel award\nSUS5 (Stats Under the Stars 5th edition) 2019: Winner of the statistical hackathon in 2019."
   },
   {
     "objectID": "index.html#education",
