@@ -46,7 +46,7 @@ website:
 format:
   html:
     theme: [simplex, style.scss]
-    favicon: img/icona.ico
+    favicon: "img/icona.png"  # or use icona.ico if you prefer
     toc: false
     link-external-newwindow: true
     email-obfuscation: javascript

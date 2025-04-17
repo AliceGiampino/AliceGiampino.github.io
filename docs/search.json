@@ -39,7 +39,7 @@
     "href": "teach.html",
     "title": "Teaching",
     "section": "",
-    "text": "M.Sc courses (Laurea magistrale)\n\nExperimental design, Marketing and Global Markets, University of Milano-Bicocca.\n\nB.Sc. courses (Laurea triennale)\n\nStatistics, Informatic Engineering, Department of Engineering, University of Bergamo."
+    "text": "M.Sc courses (Laurea magistrale)\nB.Sc. courses (Laurea triennale)"
   },
   {
     "objectID": "teach.html#teaching",
@@ -74,7 +74,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with change point detection.\nTopic modelling techniques with distributions defined on the simplex."
+    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:"
   },
   {
     "objectID": "research.html#research",
