@@ -1,6 +1,7 @@
 ---
-title: ""
-editor: visual
+title: "Research"
+editor: 
+  mode: source
 ---
 
 ## Research
