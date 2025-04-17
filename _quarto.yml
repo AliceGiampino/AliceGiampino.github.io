@@ -46,7 +46,7 @@ website:
 format:
   html:
     theme: [simplex, style.scss]
-    favicon: images/icona.ico
+    favicon: img/icona.ico
     toc: false
     link-external-newwindow: true
     email-obfuscation: javascript
