@@ -4,8 +4,6 @@ format: html
 editor: visual
 ---
 
-## Education
-
 -  **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy ![](img/logoB.png){width="7%"} 
 
     Period 2019 - 2023.

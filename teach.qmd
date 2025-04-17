@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-## Teaching
-
 M.Sc courses (*Laurea magistrale*)
 
 -   Experimental design, Marketing and Global Markets, University of Milano-Bicocca.
