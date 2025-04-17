@@ -7,6 +7,7 @@ author-meta: "Alice Giampino"
 
 website:
   title: "Alice Giampino"
+  favicon: "img/icona.png"
   open-graph: true
   site-url: "https://AliceGiampino.github.io/"
   navbar:
