@@ -7,7 +7,6 @@ author-meta: "Alice Giampino"
 
 website:
   title: "Alice Giampino"
-  favicon: images/icona.ico
   open-graph: true
   site-url: "https://AliceGiampino.github.io/"
   navbar:
@@ -47,6 +46,7 @@ website:
 format:
   html:
     theme: [simplex, style.scss]
+    favicon: images/icona.ico
     toc: false
     link-external-newwindow: true
     email-obfuscation: javascript

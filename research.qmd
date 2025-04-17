@@ -21,7 +21,7 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 
 ## Short papers
 
-- Applied Stochastic Models and Data Analysis (ASMDA) 2024 - Book Chapter:
+- Applied Stochastic Models and Data Analysis (ASMDA) 2024, Book Chapter:
 
     **Giampino A.**, Ascari R., Migliorati S., *A flexible generalization of the Latent Dirichlet Allocation*.
     
