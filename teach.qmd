@@ -9,11 +9,11 @@ Ph.D. courses
 
 M.Sc courses (*Laurea magistrale*)
 
--   [**Experimental design**], Marketing and Global Markets, University of Milano-Bicocca.
+-   **Experimental design**, Marketing and Global Markets, University of Milano-Bicocca.
 
 B.Sc. courses (*Laurea triennale*)
 
--   [**Statistics**], Informatic Engineering, Department of Engineering, University of Bergamo.
+-   **Statistics**, Informatic Engineering, Department of Engineering, University of Bergamo.
 
 ## Teaching Assistant
 
