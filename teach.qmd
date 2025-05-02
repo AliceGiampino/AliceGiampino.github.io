@@ -2,19 +2,24 @@
 title: "Teaching"
 ---
 
+Ph.D. courses 
+
+-   [**Statistical Inference I**](https://AliceGiampino.github.io/StatInfI/), 16 hours (2024/2025). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
+
+
 M.Sc courses (*Laurea magistrale*)
 
--   Experimental design, Marketing and Global Markets, University of Milano-Bicocca.
+-   [**Experimental design**], Marketing and Global Markets, University of Milano-Bicocca.
 
 B.Sc. courses (*Laurea triennale*)
 
--   Statistics, Informatic Engineering, Department of Engineering, University of Bergamo.
+-   [**Statistics**], Informatic Engineering, Department of Engineering, University of Bergamo.
 
 ## Teaching Assistant
 
 M.Sc courses (*Laurea magistrale*)
 
--   Bayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021).
+-   [**Bayesian Learning and Monte Carlo Methods**], Department of Mathematics, Polytechnic University of Milan (2020-2021).
 
 ## Tutor
 
