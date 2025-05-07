@@ -19,6 +19,9 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 -   **A. Giampino**, M. Guindani, B. Nipoti, M. Vannucci, *Local Level Dynamic Random Partition Models for Changepoint Detection*, (2024+). See the [ArXiv](https://arxiv.org/pdf/2407.20085)!;
 
 ## Short papers
+- Società Italiana di Statistica (SIS), 2024, :
+
+    **Giampino, A.**, Ascari, R. and Migliorati, S., Microbiome Enterotype Detection. Methodological and Applied Statistics and Demography IV: SIS 2024, Short Papers, Contributed Sessions 2, p.96.
 
 - Applied Stochastic Models and Data Analysis (ASMDA) 2024, Book Chapter:
 
