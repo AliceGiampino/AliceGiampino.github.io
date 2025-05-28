@@ -25,7 +25,7 @@ website:
       - href: other.qmd
         text: Other
       - text: CV
-        href: files/CV_Alice_Giampino_Aug24.pdf
+        href: files/CV_Alice_Giampino_May25.pdf
         target: _blank          
     right:
       - icon: envelope

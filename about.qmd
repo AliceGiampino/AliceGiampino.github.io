@@ -4,11 +4,11 @@ format: html
 editor: visual
 ---
 
--  **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy ![](img/logoB.png){width="7%"} 
+-   **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy ![](img/logoB.png){width="7%"}
 
     Period 2019 - 2023.
 
-     **Visiting researcher**, [University of California, Irvine](https://uci.edu/), U.S. ![](img/UCI_Stats_logo.png){width="18%"}
+    **Visiting researcher**, [University of California, Irvine](https://uci.edu/), U.S. ![](img/UCI_Stats_logo.png){width="18%"}
 
     Period May 2022 - May 2023
 
@@ -24,8 +24,10 @@ editor: visual
 
     Advisor: [Prof. Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
 
--  **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy ![](img/logoB.png){width="7%"}
+-   **B.Sc. in Statistical sciences**, University of Milano-Bicocca, Milan, Italy ![](img/logoB.png){width="7%"}
 
     Period 2014 - 2017. Final mark: 110/110 with honor
 
     Advisor: [Prof. Sonia Migliorati](https://www.unimib.it/sonia-migliorati).
+
+# 

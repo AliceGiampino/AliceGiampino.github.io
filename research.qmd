@@ -14,7 +14,8 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 
 ## Research projects
 
--   **A. Giampino**, R. Ascari, S. Migliorati,  A flexible mixed-membership model for community and enterotype detection for microbiome data. <strong><a href="https://www.dems.unimib.it/en" target="_blank"> Computational Statistics and Data Analysis</a></strong>, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
+-   **A. Giampino**, R. Ascari, S. Migliorati,  A flexible mixed-membership model for community and enterotype detection for microbiome data.
+Computational Statistics and Data Analysis, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
 -   **A. Giampino**, B. Nipoti, A. Canale, *A Bayesian Method for Co-clustering Ordinal Data with Informative Missing Entries*, (2024+). See the [ArXiv](https://arxiv.org/pdf/2411.02276)!;
 -   **A. Giampino**, M. Guindani, B. Nipoti, M. Vannucci, *Local Level Dynamic Random Partition Models for Changepoint Detection*, (2024+). See the [ArXiv](https://arxiv.org/pdf/2407.20085)!;
 

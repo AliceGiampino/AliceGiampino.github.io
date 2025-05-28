@@ -19,7 +19,7 @@ B.Sc. courses (*Laurea triennale*)
 
 M.Sc courses (*Laurea magistrale*)
 
--   [**Bayesian Learning and Monte Carlo Methods**], Department of Mathematics, Polytechnic University of Milan (2020-2021).
+-   **Bayesian Learning and Monte Carlo Methods**, Department of Mathematics, Polytechnic University of Milan (2020-2021).
 
 ## Tutor
 
