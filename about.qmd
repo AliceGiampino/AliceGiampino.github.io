@@ -3,6 +3,13 @@ title: "Education"
 format: html
 editor: visual
 ---
+-   **PostDoc in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy ![](img/logoB.png){width="7%"}
+
+    Period 2023 - on going
+
+    **Visiting researcher**, [University of California, Los Angeles](https://www.ucla.edu/), U.S. ![](img/ucla_logo.jpg){width="15%"}
+
+    Period June - July 2025
 
 -   **Ph.D. in Statistical Sciences**, [University of Milano-Bicocca](https://en.unimib.it), Milan, Italy ![](img/logoB.png){width="7%"}
 
