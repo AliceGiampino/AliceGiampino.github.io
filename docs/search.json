@@ -123,7 +123,7 @@
     "href": "research.html#research-projects",
     "title": "Research",
     "section": "Research projects",
-    "text": "Research projects\n\nA. Giampino, R. Ascari, S. Migliorati, A flexible mixed-membership model for community and enterotype detection for microbiome data. Computational Statistics and Data Analysis, 10.1016/j.csda.2025.108181.\nA. Giampino, B. Nipoti, A. Canale, A Bayesian Method for Co-clustering Ordinal Data with Informative Missing Entries, (2024+). See the ArXiv!;\nA. Giampino, M. Guindani, B. Nipoti, M. Vannucci, Local Level Dynamic Random Partition Models for Changepoint Detection, (2024+). See the ArXiv!;"
+    "text": "Research projects\n\nA. Giampino, R. Ascari, S. Migliorati, A flexible mixed-membership model for community and enterotype detection for microbiome data. Computational Statistics and Data Analysis (2025) https://doi.org/10.1016/j.csda.2025.108181.\nA. Giampino, A. Canale, B. Nipoti, A Bayesian Model for Co-clustering Ordinal Data with Informative Missing Entries. Statistics and Computing, (2025) https://doi.org/10.1007/s11222-025-10703-w\nA. Giampino, B. Nipoti, M. Vannucci, M. Guindani, Local Level Dynamic Random Partition Models for Changepoint Detection. Accepted to Bayesian Analysis (2025) https://arxiv.org/abs/2407.20085"
   },
   {
     "objectID": "research.html#short-papers",
@@ -187,5 +187,12 @@
     "title": "Teaching",
     "section": "Projects",
     "text": "Projects\n\nScientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)\nPNRR projects: presenting statistics to high schools (2024)"
+  },
+  {
+    "objectID": "research.html#books-chapter-proceedings",
+    "href": "research.html#books-chapter-proceedings",
+    "title": "Research",
+    "section": "Books chapter & proceedings",
+    "text": "Books chapter & proceedings\n\nA. Giampino, R. Ascari, S. Migliorati.Microbiome enterotype detection via a latent variable allocation model, Methodological and Applied Statistics and Demography IV (SIS 2024), Springer (2025) https://doi.org/10.1007/978-3-031-64447-416\nA. Giampino, R. Ascari, S. Migliorati.A Flexible Generalization of the Latent Dirichlet Allocation, Data Analysis and Related Applications 4: New Approaches, Volume 12 (ASMDA 2023), Wiley, (2024) https://doi.org/10.1002/9781394316915.ch8\nR. Ascari, A. Giampino,A flexible topic model, 14th Scientific Meeting of the Classification and Data Analysis Group (CLADAG 2023), Pearson, (2023) https://iris.unive.it/retrieve/a72dffc6-b72f-4356-9798-d1a2aad2baf5/CLADAG-2023-Bertarelli.pdf\n\n\nBook of Abstract\n\nA. Giampino, R. Ascari, S. Migliorati,A Flexible Latent Dirichlet Model for Modeling Taxa Communities, ISBN 9788899594244, CLADAG (Sep 2025)\nA. Giampino, A. Canale & B. Nipoti, Bayesian co-clustering of ordinal data with informative censoring, ISBN 978-9925-7812-8-7, CMStatistics (Dec 2024)\nA. Giampino, M. Guindani, B. Nipoti & M. Vannucci, Changepoint detection with random partition models, ISBN 978-9925-7812-7-0, CMStatistics (Dec 2023)\nR. Ascari & A. Giampino, A Flexible Topic Model, ISBN 9788891935632, CLADAG (Sep 2023)\nR. Ascari & Giampino A. A generalization of the latent Dirichlet allocation, ISBN 978-9925-7812-6-3, CMStatistics (Dec 2022)\nA. Giampino, R. Ascari & S. Migliorati LEFDA: An extension of the classical LDA, ISBN 978-90-73592-40-7, COMPSTAT (Aug 2022)"
   }
 ]
