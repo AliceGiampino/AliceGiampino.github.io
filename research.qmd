@@ -31,6 +31,15 @@ Applications 4: New Approaches, Volume 12 (ASMDA 2023), Wiley, (2024) [https://d
 2023), Pearson, (2023)
 [https://iris.unive.it/retrieve/a72dffc6-b72f-4356-9798-d1a2aad2baf5/CLADAG-2023-Bertarelli.pdf](https://iris.unive.it/.../CLADAG-2023-Bertarelli.pdf)
 
+### Currently research projects
+- A. Giampino, R. Ascari, S. Migliorati, *A flexible latent Dirichlet model for modelling taxa communities*, (2025+)
+- A. Giampino, S. Migliorati, M. Guindani, *Temporal communities behaviour*, (2025+)
+- A. Giampino, S. Migliorati, J. Vandekerckhove, M. Guindani, *A Bayesian Finite Mixture for Cognitive Data*, (2025+)
+- J. Zonca, A. Giampino, C. Reverberi, P. Cherubini, *The advice gap: adaptive yet suboptimal advice integration* (2025+), PsyArXiv
+[https://doi.org/10.31234/osf.io/4qkjev1](https://doi.org/10.31234/osf.io/4qkjev1)
+Submitted to: Nature Communications
+
+
 ### Book of Abstract
 
 - A. Giampino, R. Ascari, S. Migliorati,*A Flexible Latent Dirichlet Model for Modeling Taxa Communities*, ISBN
@@ -46,7 +55,7 @@ Applications 4: New Approaches, Volume 12 (ASMDA 2023), Wiley, (2024) [https://d
 COMPSTAT (Aug 2022)
 
 
-## Award
+## Awards
 
 - BNP (Bayesin Nonparametrics) 2025:
 Travel award

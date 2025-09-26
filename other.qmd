@@ -9,13 +9,13 @@ editor: visual
 
     **Invited talk**
 
--   *NEXT* Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.
+-   Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.
 
-    **Invited talk**
+    **Invited talk**: *A Flexible Latent Dirichlet Model for Modeling Taxa Communities*
 
--   *NEXT* Bayesian Nonparametric (BNP) meeting, Jul 2025, Los Angeles, US.
+-   Bayesian Nonparametric (BNP) meeting, Jul 2025, Los Angeles, US.
 
-    **Invited talk**
+    **Contributed talk**: *Local Level Dynamic Random Partition Models For Changepoint Detection*
 
 -   Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.
 
