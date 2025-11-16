@@ -15,21 +15,22 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 ## Research projects
 
 -   **A. Giampino**, R. Ascari, S. Migliorati, *A flexible mixed-membership model for community and enterotype detection for microbiome data*.
-Computational Statistics and Data Analysis (2025)
+Computational Statistics and Data Analysis 10 (2025): 108181.
  [https://doi.org/10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
 -   **A. Giampino**, A. Canale, B. Nipoti, *A Bayesian Model for Co-clustering Ordinal Data with Informative Missing Entries*.
-Statistics and Computing, (2025)
+Statistics and Computing, 35, no. 5 (2025): 164.
 [https://doi.org/10.1007/s11222-025-10703-w](https://doi.org/10.1007/s11222-025-10703-w)
--   **A. Giampino**, B. Nipoti, M. Vannucci, M. Guindani, *Local Level Dynamic Random Partition Models for Changepoint Detection*. Accepted to Bayesian Analysis (2025) [https://arxiv.org/abs/2407.20085](arXiv:2407.20085)
+-   **A. Giampino**, B. Nipoti, M. Vannucci, M. Guindani, *Local Level Dynamic Random Partition Models for Changepoint Detection*. Bayesian Analysis, Bayesian Analysis Advance Publication, 1-30, (2025). [https://doi.org/10.1214/25-BA1560](https://doi.org/10.1214/25-BA1560)
 
 ## Books chapter & proceedings
-- **A. Giampino**, R. Ascari, S. Migliorati.*Microbiome enterotype detection via a latent variable allocation model*, Methodological and Applied Statistics and Demography IV (SIS 2024), Springer (2025)
+- **A. Giampino**, R. Ascari, S. Migliorati.*Microbiome enterotype detection via a latent variable allocation model*, Methodological and
+Applied Statistics and Demography IV (SIS 2024), pp. 96-101. Cham: Springer Nature Switzerland (2025).
 [https://doi.org/10.1007/978-3-031-64447-416](https://doi.org/10.1007/978-3-031-64447-416)
 - **A. Giampino**, R. Ascari, S. Migliorati.*A Flexible Generalization of the Latent Dirichlet Allocation*, Data Analysis and Related
 Applications 4: New Approaches, Volume 12 (ASMDA 2023), Wiley, (2024) [https://doi.org/10.1002/9781394316915.ch8](https://doi.org/10.1002/9781394316915.ch8)
 - R. Ascari, **A. Giampino**,*A flexible topic model*, 14th Scientific Meeting of the Classification and Data Analysis Group (CLADAG
-2023), Pearson, (2023)
-[https://iris.unive.it/retrieve/a72dffc6-b72f-4356-9798-d1a2aad2baf5/CLADAG-2023-Bertarelli.pdf](https://iris.unive.it/.../CLADAG-2023-Bertarelli.pdf)
+2023), Pearson, (2023), SBN: 9788891935632.
+[https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit\%C3\%A0/CLADAG-2023.pdf](https://it.pearson.com/content/.../CLADAG-2023.pdf)
 
 ### Currently research projects
 - A. Giampino, R. Ascari, S. Migliorati, *A flexible latent Dirichlet model for modelling taxa communities*, (2025+)
