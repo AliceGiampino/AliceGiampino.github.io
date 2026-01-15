@@ -4,7 +4,7 @@ title: "Teaching"
 
 Ph.D. courses 
 
--   [**Statistical Inference I**](https://AliceGiampino.github.io/StatInfI/), 16 hours (2024/2025). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
+-   [**Statistical Inference I**](https://AliceGiampino.github.io/StatInfI/), 16 hours. Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
 
 
 M.Sc courses (*Laurea magistrale*)

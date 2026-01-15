@@ -5,9 +5,11 @@ editor: visual
 
 ## Conferences - Workshop
 
--   *NEXT* Computational and Methodological Statistics (CMStatistics), Dec 2025, London, UK.
+-   NEXT ISBA (International Society for Bayesian Analysis), June 2026, Nagoya, Japan.
 
-    **Invited talk**
+-   Computational and Methodological Statistics (CMStatistics), Dec 2025, London, UK.
+
+    **Invited talk**: *Modeling Eurovision 2025 Songs with a Flexible Topic Modeling Approach*
 
 -   Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.
 
