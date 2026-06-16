@@ -7,53 +7,61 @@ editor: visual
 
 -   NEXT ISBA (International Society for Bayesian Analysis), June 2026, Nagoya, Japan.
 
+- SIS (Italian Society of Statistics) June 2026, Rome, Italy.
+    
+     Contributed talk: *Modeling Time-to-Diagnosis from HIV Infection of Truncated Observations:  Applied Comparison of Survival Models*
+     
+- IMPMS (Italian Meeting on Probability and Mathematical Statistics), June 2026, Palermo, Italy.
+
+    Invited talk: *Cognitive data analysis with Bayesian Drift Diffusion Model*
+
 -   Computational and Methodological Statistics (CMStatistics), Dec 2025, London, UK.
 
-    **Invited talk**: *Modeling Eurovision 2025 Songs with a Flexible Topic Modeling Approach*
+     Invited talk: *Modeling Eurovision 2025 Songs with a Flexible Topic Modeling Approach*
 
 -   Classification and Data Analysis (CLADAG), Sep 2025, Naples, IT.
 
-    **Invited talk**: *A Flexible Latent Dirichlet Model for Modeling Taxa Communities*
+    Invited talk: *A Flexible Latent Dirichlet Model for Modeling Taxa Communities*
 
 -   Bayesian Nonparametric (BNP) meeting, Jul 2025, Los Angeles, US.
 
-    **Contributed talk**: *Local Level Dynamic Random Partition Models For Changepoint Detection*
+    Contributed talk: *Local Level Dynamic Random Partition Models For Changepoint Detection*
 
 -   Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.
 
-    **Invited talk**: *Co-clustering ordinal data with informative censoring.*
+    Invited talk: *Co-clustering ordinal data with informative censoring.*
 
 -   BAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.
 
-    **Poster session**: *Changepoint detection with random partiton models*
+    Poster session: *Changepoint detection with random partiton models*
 
 -   SIS (Italian Society of Statistics), June 2024, Bari, Italy.
 
-    **Contributed talk**: *Microbiome enterotype detection via a latent variable allocation model*
+    Contributed talk: *Microbiome enterotype detection via a latent variable allocation model*
 
 -   Computational and Methodological Statistics (CMStatistics), 2023. Berlin, German.
 
-    **Invited talk**: *Changepoint detection with random partiton models*.
+    Invited talk: *Changepoint detection with random partiton models*.
 
 -   Workshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.
 
-    **Talk and poster**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
+    Talk and poster: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
 
 -   ASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.
 
-    **Talk**: *A flexible generalization of the Latent Dirichlet distribution*.
+    Talk: *A flexible generalization of the Latent Dirichlet distribution*.
 
 -   OBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.
 
-    **Poster session**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
+    Poster session: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
 
 -   COMPSTAT (Computational Statistics), 2022. Bologna, Italy.
 
-    **Talk**: *LEFDA: An extension of the classical Latent Dirichlet Allocation*.
+    Talk: *LEFDA: An extension of the classical Latent Dirichlet Allocation*.
 
 -   ISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.
 
-    **Poster session**: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
+    Poster session: *A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring*.
 
 ## Ph.D. projects
 
