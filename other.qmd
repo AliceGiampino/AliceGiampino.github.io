@@ -5,9 +5,10 @@ editor: visual
 
 ## Conferences - Workshop
 
--   NEXT ISBA (International Society for Bayesian Analysis), June 2026, Nagoya, Japan.
+-   ISBA (International Society for Bayesian Analysis), June 2026, Nagoya, Japan.
 
-- SIS (Italian Society of Statistics) June 2026, Rome, Italy.
+
+- SIS-FENStatS (Italian Society of Statistics) June 2026, Rome, Italy.
     
      Contributed talk: *Modeling Time-to-Diagnosis from HIV Infection of Truncated Observations:  Applied Comparison of Survival Models*
      

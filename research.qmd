@@ -14,7 +14,7 @@ I am interested on Bayesian Analysis, especially on Bayesian Nonparametric model
 
 ## Research projects
 
--  R. Ascari, **A. Giampino**, S. Migliorati, *Sub-topics detection with extended flexible latent Dirichlet allocation*. Advances in Data Analysis and Classification (2026). To appear.
+-  R. Ascari, **A. Giampino**, S. Migliorati, *Sub-topics detection with extended flexible latent Dirichlet allocation*. Advances in Data Analysis and Classification (2026). [https://doi.org/10.1007/s11634-026-00690-9](https://doi.org/10.1007/s11634-026-00690-9)
 - J. Zonca, **A. Giampino**, P. Cherubini, C. Reverberi, *Adaptive yet suboptimal integration of advice in decision-making*. Communications Psychology (2026). [https://doi.org/10.1038/s44271-026-00456-1](https://doi.org/10.1038/s44271-026-00456-1)
 -   **A. Giampino**, R. Ascari, S. Migliorati, *A flexible mixed-membership model for community and enterotype detection for microbiome data*.
 Computational Statistics and Data Analysis 10 (2025): 108181.
@@ -25,8 +25,8 @@ Statistics and Computing, 35, no. 5 (2025): 164.
 -   **A. Giampino**, B. Nipoti, M. Vannucci, M. Guindani, *Local Level Dynamic Random Partition Models for Changepoint Detection*. Bayesian Analysis, Bayesian Analysis Advance Publication, 1-30, (2025). [https://doi.org/10.1214/25-BA1560](https://doi.org/10.1214/25-BA1560)
 
 ## Books chapter & proceedings
-- R. Ascari, **A. Giampino**, C. Nava, *Latent Dirichlet Allocation to Study Territorial Identity via in-depth Interviews*, Statistical Science: From Theory to Applied Research I: SIS-FENStatS 2026. To appear.
-- **A. Giampino**, G. Pittarello *Modeling Time-to-Diagnosis from HIV Infection of Truncated Observations:  Applied Comparison of Survival Models*, Statistical Science: From Theory to Applied Research I: SIS-FENStatS 2026. To appear.
+- R. Ascari, **A. Giampino**, C. Nava, *Latent Dirichlet Allocation to Study Territorial Identity via in-depth Interviews*, Statistical Science: From Theory to Applied Research II. (SIS-FENStatS 2026), pp 132-137.Springer, Cham. [https://doi.org/10.1007/978-3-032-30877-1_22](https://doi.org/10.1007/978-3-032-30877-1_22)
+- **A. Giampino**, G. Pittarello *Modeling Time-to-Diagnosis from HIV Infection of Truncated Observations:  Applied Comparison of Survival Models*, Statistical Science: From Theory to Applied Research III (SIS-FENStatS 2026), pp 408-414. Cham: Springer Nature Switzerland (2026). [https://doi.org/10.1007/978-3-032-30881-8_66](https://doi.org/10.1007/978-3-032-30881-8_66)
 - **A. Giampino**, R. Ascari, S. Migliorati.*Microbiome enterotype detection via a latent variable allocation model*, Methodological and
 Applied Statistics and Demography IV (SIS 2024), pp. 96-101. Cham: Springer Nature Switzerland (2025).
 [https://doi.org/10.1007/978-3-031-64447-416](https://doi.org/10.1007/978-3-031-64447-416)
@@ -40,7 +40,8 @@ Applications 4: New Approaches, Volume 12 (ASMDA 2023), Wiley, (2024) [https://d
 - A. Giampino, R. Ascari, S. Migliorati, *A flexible latent Dirichlet model for modelling taxa communities*, (2026+)
 - A. Giampino, S. Migliorati, M. Guindani, *Temporal communities behaviour*, (2026+)
 - A. Giampino, S. Migliorati, J. Vandekerckhove, M. Guindani, *A Bayesian Finite Mixture for Cognitive Data*, (2026+)
-- J. Zonca, A. Giampino, C. Reverberi, P. Cherubini, *The advice stakes*, (2026+)
+- J. Zonca, A. Giampino, C. Reverberi, P. Cherubini, *Uneven Effects of Decision Stakes on Advice Integration*. Submitted to Nature Human Behaviour (2026+). [https://osf.io/preprints/psyarxiv/qnpbr_v1](PsyArxiv)
+- A. Giampino, S. Tedeschi, R. Ascari, C. R. Nava, *An Interpretable Workflow for Comparing Top-Down and Bottom-Up Tourism Narratives through Flexible Topic Modeling*. Submitted to Information Processing and Management (2026+).
 
 
 ### Book of Abstract
